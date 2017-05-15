@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1494810332 source:f:\echeverriaivana- parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1494810170 f:\echeverriaivana- parcial\funciones.h
+
+1494810332 source:f:\echeverriaivana- parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"funciones.h"
+
+1494796444 f:\echeverriaivana- parcial\lib.h
+
+1494797068 f:\echeverriaivana- parcial\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1494804986 f:\echeverriaivana- parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"funciones.h"
+
